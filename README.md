@@ -18,10 +18,13 @@ python todo_list.py
 ```
 
 ## Usage
-1.Add Task
-2.Delete Task
-3.Display Tasks
-4.Exit
+
+```
+1. Add Task
+2. Delete Task
+3. Display Tasks
+4. Exit
+```
 
 ## Requirements
 
